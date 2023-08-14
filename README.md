@@ -14,6 +14,7 @@ I've been learning programming for over 7 years. I started with Python, but my p
 ## Projects
 
 * Bank Landing Page **https://webdevkelvin.github.io/bank-landing-page/**
+* Chat App Landing Page **https://webdevkelvin.github.io/meet-landing-page/**
 * Food Delivery Page **https://webdevkelvin.github.io/food-delivery-page**
 * Expenses App **https://webdevkelvin.github.io/expenses-app/**
 * Robot Companion App **https://webdevkelvin.github.io/robot-companion/**
