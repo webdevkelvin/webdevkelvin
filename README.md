@@ -11,6 +11,18 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * 🧠  I'm learning Data Analytics (Google Certification)
 * ⚡  I enjoy learning new things!
 
+## Projects
+
+* Bank Landing Page **https://webdevkelvin.github.io/bank-landing-page/**
+* Food Delivery Page **https://webdevkelvin.github.io/food-delivery-page**
+* Expenses App **https://webdevkelvin.github.io/expenses-app/**
+* Robot Companion App **https://webdevkelvin.github.io/robot-companion/**
+* TicTacToe Game **https://webdevkelvin.github.io/tic-tac-toe-game/**
+* Booking App **https://webdevkelvin.github.io/booking-app-trillo/**
+* Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
+* Image Search App **https://webdevkelvin.github.io/pics-search/**
+* Price Component **https://webdevkelvin.github.io/price-component/**
+
 ## Skills
 ### JavaScript/TypeScript
 * Front-End Development
@@ -93,15 +105,5 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * CRM Systems
 * Data Analytics
 
-## Projects
 
-* Bank Landing Page **https://webdevkelvin.github.io/bank-landing-page/**
-* Food Delivery Page **https://webdevkelvin.github.io/food-delivery-page**
-* Expenses App **https://webdevkelvin.github.io/expenses-app/**
-* Robot Companion App **https://webdevkelvin.github.io/robot-companion/**
-* TicTacToe Game **https://webdevkelvin.github.io/tic-tac-toe-game/**
-* Booking App **https://webdevkelvin.github.io/booking-app-trillo/**
-* Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
-* Image Search App **https://webdevkelvin.github.io/pics-search/**
-* Price Component **https://webdevkelvin.github.io/price-component/**
 
