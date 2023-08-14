@@ -22,6 +22,7 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
 * Image Search App **https://webdevkelvin.github.io/pics-search/**
 * Price Component **https://webdevkelvin.github.io/price-component/**
+* Books App **https://webdevkelvin.github.io/books-app/**
 
 ## Skills
 ### JavaScript/TypeScript
