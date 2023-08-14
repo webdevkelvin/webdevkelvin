@@ -103,6 +103,5 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * Booking App **https://webdevkelvin.github.io/booking-app-trillo/**
 * Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
 * Image Search App **https://webdevkelvin.github.io/pics-search/**
-* Task App **https://webdevkelvin.github.io/simple-task-app/**
 * Price Component **https://webdevkelvin.github.io/price-component/**
 
