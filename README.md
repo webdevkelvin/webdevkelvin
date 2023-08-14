@@ -99,7 +99,7 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * Content Management Systems (CMS)
 * Graphic Design Tools
 * Marketing Automation
-* Conversion Reate Optimization (CRO)
+* Conversion Rate Optimization (CRO)
 * Basic Video Editing
 * Analytical Tools
 * CRM Systems
