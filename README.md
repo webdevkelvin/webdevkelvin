@@ -99,7 +99,7 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * Food Delivery Page **https://webdevkelvin.github.io/food-delivery-page**
 * Expenses App **https://webdevkelvin.github.io/expenses-app/**
 * Robot Companion App **https://webdevkelvin.github.io/robot-companion/**
-* TicTacToe Game **https://webdevkelvin.github.io/tic-tac-toe/**
+* TicTacToe Game **https://webdevkelvin.github.io/tic-tac-toe-game/**
 * Booking App **https://webdevkelvin.github.io/booking-app-trillo/**
 * Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
 * Image Search App **https://webdevkelvin.github.io/pics-search/**
