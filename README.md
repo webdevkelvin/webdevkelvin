@@ -96,3 +96,13 @@ I've been learning programming for over 7 years. I started with Python, but my p
 ## Projects
 
 Bank Landing Page **https://webdevkelvin.github.io/bank-landing-page/**
+Food Delivery Page **https://webdevkelvin.github.io/food-delivery-page**
+Expenses App **https://webdevkelvin.github.io/expenses-app/**
+Robot Companion App **https://webdevkelvin.github.io/robot-companion/**
+TicTacToe Game **https://webdevkelvin.github.io/tic-tac-toe/**
+Booking App **https://webdevkelvin.github.io/booking-app-trillo/**
+Realstate Landing Page **https://webdevkelvin.github.io/realtor-landing-page/**
+Image Search App **https://webdevkelvin.github.io/pics-search/**
+Task App **https://webdevkelvin.github.io/simple-task-app/**
+Price Component **https://webdevkelvin.github.io/price-component/**
+
