@@ -13,11 +13,86 @@ I've been learning programming for over 7 years. I started with Python, but my p
 
 ## Skills
 ### JavaScript/TypeScript
-* **Front-End Development:** Mastering JavaScript/TypeScript to build dynamic and interactive front-end web applications.
-* 
-JavaScript | Python | C# | Git | TypeScript | HTML5 | CSS3 | React.js | Next.js | Sass | Bootstrap | Tailwind | Redux | Vite | Node.js | Express.js | MongoDB | MySQL | PostgreSQL | Firebase | .Net | Docker | Figma 
+* Front-End Development
+* DOM Manipulation
+* Asynchronous Programming
+* Type Safety with TypeScript
 
+### React.js
+* Component-Based Development
+* State Management
+* Virtual DOM Efficient Rendering
+* Props and Data Flow
 
-### Projects
+### Node.js/Express.js
+* Build RESTful APIs
+* Server-Side Rendering
+* Middleware Implementation
+* Database Integration
+
+### HTML/CSS
+* Structuring Web Content
+* Creating Responsive Layouts
+* Styling and Visual Design
+* CSS Frameworks (Bootstrap5, Tailwind)
+* CSS Transitions and Animations
+* Scss
+
+### SQL/NoSQL (MySQL | PostgreSQL | MongoDB | Redis)
+* Database Design:
+* Data Manipulation (CRUD)
+* Filtering and Sorting
+* Joins and Relationships
+* Aggregation and Grouping
+
+### C#/.Net
+* Object-Oriented Programming
+* .NET Framework or .NET Core
+* Web Development with ASP.NET
+* Database Integration
+
+### Git/Github
+* Version Control
+* Repository Management
+* Branching and Merging
+* Collaborative Development
+* Issue Tracking
+  
+### Docker/Kubernetes
+* Containerization with Docker
+* Docker Compose
+* Image Creation
+* Kubernetes Orchestration
+* Scaling and Load Balancing
+
+### Agile Methodology
+* Scrum Framework
+* User Stories and Backlog
+* Sprint Development
+* Iterative Testing and Feedback
+* Adaptability and Continuous Improvement
+
+### Sofware Design
+* Understanding Requirements
+* Architectural Patterns
+* Component and Module Design
+* UML Diagrams
+* Design Patterns
+
+### Digital Marketing
+* SEO
+* PPC
+* Social Media Management
+* Email Marketing
+* Content Management Systems (CMS)
+* Graphic Design Tools
+* Marketing Automation
+* Conversion Reate Optimization (CRO)
+* Basic Video Editing
+* Analytical Tools
+* CRM Systems
+* Data Analytics
+
+## Projects
 
 Bank Landing Page **https://webdevkelvin.github.io/bank-landing-page/**
