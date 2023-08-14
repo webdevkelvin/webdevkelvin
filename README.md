@@ -9,10 +9,14 @@ I've been learning programming for over 7 years. I started with Python, but my p
 * 🌍  I'm based in Puerto Rico
 * ✉️  You can contact me at [webdev.kelvin@proton.me](mailto:webdev.kelvin@proton.me)
 * 🧠  I'm learning Data Analytics (Google Certification)
-* ⚡  I'm currently looking for a job!
+* ⚡  I enjoy learning new things!
 
-### Skills
+## Skills
+### JavaScript/TypeScript
+* **Front-End Development:** Mastering JavaScript/TypeScript to build dynamic and interactive front-end web applications.
+* 
 JavaScript | Python | C# | Git | TypeScript | HTML5 | CSS3 | React.js | Next.js | Sass | Bootstrap | Tailwind | Redux | Vite | Node.js | Express.js | MongoDB | MySQL | PostgreSQL | Firebase | .Net | Docker | Figma 
+
 
 ### Projects
 
