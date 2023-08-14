@@ -14,4 +14,4 @@ I've been learning programming for more than 7 years. I started with Python, but
 ### Skills
 JavaScript | Python | C# | Git | TypeScript | HTML5 | CSS3 | React.js | Next.js | Sass | Bootstrap | Tailwind | Redux | Vite | Node.js | Express.js | MongoDB | MySQL | PostgreSQL | Firebase | .Net | Docker | Figma 
 
-[Bank Website] (**https://webdevkelvin.github.io/bank-landing-page/**)
+* [Bank Landing Page] (**https://webdevkelvin.github.io/bank-landing-page/**)
