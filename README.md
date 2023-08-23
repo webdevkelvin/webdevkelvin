@@ -53,7 +53,7 @@ I've been studying programming for more than 7 years. I began with Python, but m
 * Scss
 
 ### SQL/NoSQL (MySQL | PostgreSQL | MongoDB | Redis)
-* Database Design:
+* Database Design
 * Data Manipulation (CRUD)
 * Filtering and Sorting
 * Joins and Relationships
