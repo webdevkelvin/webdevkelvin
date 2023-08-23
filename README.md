@@ -4,7 +4,7 @@ Hi 👋 My name is Kelvin Álvarez
 Software Developer, Web Developer, Digital Marketer
 ---------------------------------------------------
 
-I've been learning programming for over 7 years. I started with Python, but my passion shifted towards web development. For the last 5 years, I've focused on mastering HTML, CSS, JavaScript, React, and related technologies. I'm also enthusiastic about digital marketing and data analytics.
+I've been studying programming for more than 7 years. I began with Python, but my interest turned to web programming. I've spent the previous five years honing my skills in HTML, CSS, JavaScript, React, and other related technologies. I'm also fascinated with digital marketing and data analytics.
 
 * 🌍  I'm based in Puerto Rico
 * ✉️  You can contact me at [webdev.kelvin@proton.me](mailto:webdev.kelvin@proton.me)
